@@ -1,0 +1,13 @@
+.note{
+  color: red;
+}
+.commandhigh{
+  background: #e8e8e8;
+  padding: 3px;
+  color: blue;
+  font-weight: bold;
+}
+.argu{
+  color: #228B22;
+  font-weight: bold;
+}
